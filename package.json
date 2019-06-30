@@ -1,0 +1,28 @@
+{
+  "name": "midterm_apollo_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./graphql_server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b04501073/midterm_apollo_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b04501073/midterm_apollo_server/issues"
+  },
+  "homepage": "https://github.com/b04501073/midterm_apollo_server#readme",
+  "dependencies": {
+    "apollo-server": "^2.6.7",
+    "express": "^4.17.1",
+    "graphql": "^14.4.1",
+    "mongoose": "^5.6.2",
+    "node-uuid": "^1.4.8"
+  }
+}
