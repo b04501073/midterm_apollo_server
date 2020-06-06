@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/b04501073/midterm_apollo_server#readme",
   "dependencies": {
-    "apollo-server": "^2.6.7",
+    "apollo-server": "^2.14.2",
     "express": "^4.17.1",
     "graphql": "^14.4.1",
     "mongoose": "^5.6.2",
